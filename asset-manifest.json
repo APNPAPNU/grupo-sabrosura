@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/grupo-sabrosura/static/css/main.526f4fd1.css",
-    "main.js": "/grupo-sabrosura/static/js/main.7f9286ab.js",
+    "main.css": "/grupo-sabrosura/static/css/main.4ceeaa77.css",
+    "main.js": "/grupo-sabrosura/static/js/main.080a740c.js",
     "static/js/453.ad42577c.chunk.js": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js",
-    "static/media/Backgroundtest.jpg.jpg": "/grupo-sabrosura/static/media/Backgroundtest.jpg.0ef2b4f697a79fc283a6.jpg",
     "index.html": "/grupo-sabrosura/index.html",
-    "main.526f4fd1.css.map": "/grupo-sabrosura/static/css/main.526f4fd1.css.map",
-    "main.7f9286ab.js.map": "/grupo-sabrosura/static/js/main.7f9286ab.js.map",
+    "main.4ceeaa77.css.map": "/grupo-sabrosura/static/css/main.4ceeaa77.css.map",
+    "main.080a740c.js.map": "/grupo-sabrosura/static/js/main.080a740c.js.map",
     "453.ad42577c.chunk.js.map": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.526f4fd1.css",
-    "static/js/main.7f9286ab.js"
+    "static/css/main.4ceeaa77.css",
+    "static/js/main.080a740c.js"
   ]
 }
