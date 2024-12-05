@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/grupo-sabrosura/static/css/main.4ceeaa77.css",
-    "main.js": "/grupo-sabrosura/static/js/main.080a740c.js",
+    "main.css": "/grupo-sabrosura/static/css/main.b74051f2.css",
+    "main.js": "/grupo-sabrosura/static/js/main.af61666f.js",
     "static/js/453.ad42577c.chunk.js": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js",
     "index.html": "/grupo-sabrosura/index.html",
-    "main.4ceeaa77.css.map": "/grupo-sabrosura/static/css/main.4ceeaa77.css.map",
-    "main.080a740c.js.map": "/grupo-sabrosura/static/js/main.080a740c.js.map",
+    "main.b74051f2.css.map": "/grupo-sabrosura/static/css/main.b74051f2.css.map",
+    "main.af61666f.js.map": "/grupo-sabrosura/static/js/main.af61666f.js.map",
     "453.ad42577c.chunk.js.map": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ceeaa77.css",
-    "static/js/main.080a740c.js"
+    "static/css/main.b74051f2.css",
+    "static/js/main.af61666f.js"
   ]
 }
