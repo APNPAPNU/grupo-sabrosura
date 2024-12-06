@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/grupo-sabrosura/static/css/main.d3b66a66.css",
-    "main.js": "/grupo-sabrosura/static/js/main.8c0075c3.js",
+    "main.js": "/grupo-sabrosura/static/js/main.41402492.js",
     "static/js/453.ad42577c.chunk.js": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js",
     "static/media/SanAndreas-MVxPw.otf": "/grupo-sabrosura/static/media/SanAndreas-MVxPw.9bc5802aec8eab9b3b84.otf",
     "index.html": "/grupo-sabrosura/index.html",
     "main.d3b66a66.css.map": "/grupo-sabrosura/static/css/main.d3b66a66.css.map",
-    "main.8c0075c3.js.map": "/grupo-sabrosura/static/js/main.8c0075c3.js.map",
+    "main.41402492.js.map": "/grupo-sabrosura/static/js/main.41402492.js.map",
     "453.ad42577c.chunk.js.map": "/grupo-sabrosura/static/js/453.ad42577c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3b66a66.css",
-    "static/js/main.8c0075c3.js"
+    "static/js/main.41402492.js"
   ]
 }
